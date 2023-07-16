@@ -1,0 +1,19 @@
+.header{
+    background-color: bisque;
+    text-align: center;
+    height: 50px;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+img{
+    border: 2px solid rgba(27, 7, 46, 0.543);
+    margin-left: 200px;
+    /* width: 50%;
+    height: 50%; */
+    
+
+}
+.head{
+    margin-left: 200px;
+}
